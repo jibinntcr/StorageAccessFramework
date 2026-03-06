@@ -1,12 +1,6 @@
-##  Software Development for Portable Devices (ZC424)
 
-### CS09 | From Building Apps to Making Apps Remember
 
-This project demonstrates the implementation of the **Storage Access Framework (SAF)** within the modern Android ecosystem using Jetpack Compose. In line with the session's goal to build behavior that retains state and remembers user preferences , this lab focuses on the secure retrieval of shared user content.
-
----
-
-# README: Storage Access Framework (SAF) Lab
+#  Storage Access Framework (SAF) Lab
 
 ### Overview
 
